@@ -1,0 +1,27 @@
+
+/* primeras etiquetas de css para reiniciar los estilos por defecto de las paginas, buena practica */
+/* html{
+	font-size: 62.5%;
+}
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+} */
+h1{
+	color: red;
+}
+p{
+	color: blue;
+}
+.pclass{
+	color: green;
+}
+#pid{
+	color: blueviolet;
+}
+input{
+	border: 1px solid gray ;
+	border-radius: 3px;
+	outline: none; /* con este parametro le quitamos el borde sobresaltado cuando este seleccionado */
+}
